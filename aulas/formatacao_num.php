@@ -11,7 +11,7 @@
     // Mostrar resultado
     echo "Seus R\$" . number_format($real, 2, ",", ".") . " equivalem a U\$" . number_format($dolar, 2, ",", ".");
 
-    // O number_format() ele vai mostrar a forma internacional/ americana de mostrar números (milhar sendo separado por [,] e decimais sendo separado por [.]), porem no Brasil é o contrário!
+    // O number_format() ele vai mostrar a forma internacional / americana de mostrar números (milhar sendo separado por [,] e decimais sendo separado por [.]), porem no Brasil é o contrário!
 
     // Porém é possível formatar isso tbm usando o método acima
 
