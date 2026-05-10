@@ -11,7 +11,7 @@
         $num = 0x1A; // números que começam com 0x são HEXADECIMAL
         echo "O valor da variável é $num.\n";
 
-        $numero = 0b1011; // números que começam com 1b são BINÁRIOS
+        $numero = 0b1011; // números que começam com 0b são BINÁRIOS
         echo "\nO valor da variável é $numero.";
 
         $n = 010; // números que começam com 0 são OCTAL

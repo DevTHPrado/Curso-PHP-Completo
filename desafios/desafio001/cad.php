@@ -21,7 +21,7 @@
             echo "<br>O seu antecessor é <strong>$ant</strong>.";
             echo "<br>O seu sucessor é <strong>$suc</strong>."
         ?>
-        <button onclick="javascript:window.location.href='index.html'">&#x2B05;Voltar</button> <!--&#x é para colocar carcteres UNICODE no HTML, esse código é de uma SETA PARA ESQUERDA    
+        <button onclick="javascript:window.location.href='index.html'">&#x2B05;Voltar</button> <!--&#x é para colocar caracteres UNICODE no HTML, esse código é de uma SETA PARA ESQUERDA    
         E esse código em javascript é para abrir a página do html-->
     </main>
 </body>

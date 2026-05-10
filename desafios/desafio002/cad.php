@@ -14,7 +14,7 @@
             $max = 100;
             $num = mt_rand($min, $max);
 
-            echo "<p>Gerando um núemro aleatório entre $min e $max... <br>O valor gerado foi <strong>$num</strong></p>";
+            echo "<p>Gerando um número aleatório entre $min e $max... <br>O valor gerado foi <strong>$num</strong></p>";
         ?>
         <button onclick="javascript:document.location.reload()">&#x1F504;Gerar outro</button>
         <!--Esse código do javacript é para recarregar a pág
